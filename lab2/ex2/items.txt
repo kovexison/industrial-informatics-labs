@@ -1,0 +1,8 @@
+﻿elice
+arduino
+cabluri
+motoare BLDC
+cadru
+ESC-uri
+giroscop
+accelerometru
